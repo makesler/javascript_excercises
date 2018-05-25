@@ -1,3 +1,5 @@
+/* checks age of a person */
+
 function checkAge(name, age) {
   if (age >= 21) {
     return ("Welcome, " + name + "!");
